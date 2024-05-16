@@ -6,7 +6,7 @@ summary: '2주동안 진행된 Only FE 팀플'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/f5c72814-b435-4565-83b1-ed87b535aaae'
 ---
 
-![화면기록](https://github.com/Haze-S/blog-contents/assets/87344625/469976fe-9d0d-4147-be19-bf1cfc9bc4b6)
+![화면기록](https://github.com/part2-8team/Rolling/assets/87344625/0b0b1a98-455e-41e2-b90d-1af25da88487)
 
 리액트를 배우고 활용한 첫 프로젝트가 2주간(24/04/30 ~ 24/05/14) 진행됐다. 프로젝트 전반적인 정보와 기획 내용, 맡았던 기능, 배운 점 등 전체적인 회고를 해보고자 글을 쓴다.
 
