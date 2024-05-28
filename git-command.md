@@ -1,9 +1,10 @@
 ---
-date: "2024-04-21"
-title: "[Git] Git 명령어"
-categories: ["Git", "WIL"]
-summary: "깃을 잘 써보자"
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/d90539cc-4818-4d10-8f4f-2af6aff16d09"
+date: '2024-04-21'
+title: '[Git] Git 명령어'
+category: 'Note'
+tags: ['Git', 'WIL']
+summary: '깃을 잘 써보자'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/d90539cc-4818-4d10-8f4f-2af6aff16d09'
 ---
 
 ![merge1](https://github.com/Haze-S/blog-contents/assets/87344625/d90539cc-4818-4d10-8f4f-2af6aff16d09)

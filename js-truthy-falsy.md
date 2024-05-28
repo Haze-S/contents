@@ -1,9 +1,10 @@
 ---
-date: "2024-04-22"
-title: "[JS] truthy & falsy"
-categories: ["JavaScript", "WIL"]
-summary: "알고 쓰면 유용한 아이들"
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/9710b7e5-013d-4432-88b8-4410b0e00e41"
+date: '2024-04-22'
+title: '[JS] truthy & falsy'
+category: 'Note'
+tags: ['JavaScript', 'WIL']
+summary: '알고 쓰면 유용한 아이들'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/9710b7e5-013d-4432-88b8-4410b0e00e41'
 ---
 
 <p align=center>
@@ -69,10 +70,10 @@ if (inputValue) {
 ```jsx
 if (isError) {
   // 에러가 발생한 경우
-  element.style.color = "red";
+  element.style.color = 'red';
 } else {
   // 에러가 발생하지 않은 경우
-  element.style.color = "black";
+  element.style.color = 'black';
 }
 ```
 
@@ -103,7 +104,7 @@ if (isAdmin) {
 
 ```jsx
 function isValidString(str) {
-  return str && typeof str === "string" && str.length > 0;
+  return str && typeof str === 'string' && str.length > 0;
 }
 ```
 
@@ -129,9 +130,9 @@ function multiplyIfTruthy(a, b) {
 function hasRequiredProperties(obj) {
   return (
     obj &&
-    typeof obj === "object" &&
-    obj.hasOwnProperty("prop1") &&
-    obj.hasOwnProperty("prop2")
+    typeof obj === 'object' &&
+    obj.hasOwnProperty('prop1') &&
+    obj.hasOwnProperty('prop2')
   );
 }
 ```
@@ -142,7 +143,7 @@ function hasRequiredProperties(obj) {
 function performActionIfTruthy(value) {
   if (value) {
     // value가 truthy한 경우에만 실행되는 로직
-    console.log("Action performed!");
+    console.log('Action performed!');
   }
 }
 ```

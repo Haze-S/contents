@@ -1,9 +1,10 @@
 ---
-date: "2024-03-21"
-title: "[CSS] position"
-categories: ["Web", "CSS", "WIL"]
-summary: "position 은 CSS 의 속성 중 하나로 html 요소를 원하는 위치에 배치할 때 사용된다."
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/b9fa3bb4-6f82-43d5-a6c2-1a105d2112d9"
+date: '2024-03-21'
+title: '[CSS] position'
+category: 'Note'
+tags: ['Web', 'CSS', 'WIL']
+summary: 'position 은 CSS 의 속성 중 하나로 html 요소를 원하는 위치에 배치할 때 사용된다.'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/b9fa3bb4-6f82-43d5-a6c2-1a105d2112d9'
 ---
 
 ![position1](https://github.com/Haze-S/blog-contents/assets/87344625/b9fa3bb4-6f82-43d5-a6c2-1a105d2112d9)

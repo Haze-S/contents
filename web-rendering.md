@@ -1,9 +1,10 @@
 ---
-date: "2024-04-18"
-title: "[Web] 웹 페이지 렌더링 방식"
-categories: ["Web", "WIL"]
-summary: "렌더링은 브라우저에 화면을 전달하는 과정이다."
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/6481ebae-9b14-445b-a5ec-5a44c953c362"
+date: '2024-04-18'
+title: '[Web] 웹 페이지 렌더링 방식'
+category: 'Note'
+tags: ['Web', 'WIL']
+summary: '렌더링은 브라우저에 화면을 전달하는 과정이다.'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/6481ebae-9b14-445b-a5ec-5a44c953c362'
 ---
 
 <p align=center>

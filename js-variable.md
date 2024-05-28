@@ -1,9 +1,10 @@
 ---
-date: "2024-03-28"
-title: "[JS] var & let & const"
-categories: ["JavaScript", "WIL"]
-summary: "이런 var보같은 녀석!"
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/eed5aa00-f42b-43c8-a62b-0952fb1d4b39"
+date: '2024-03-28'
+title: '[JS] var & let & const'
+category: 'Note'
+tags: ['JavaScript', 'WIL']
+summary: '이런 var보같은 녀석!'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/eed5aa00-f42b-43c8-a62b-0952fb1d4b39'
 ---
 
 ![js-variable1](https://github.com/Haze-S/blog-contents/assets/87344625/eed5aa00-f42b-43c8-a62b-0952fb1d4b39)
@@ -44,9 +45,9 @@ thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/eed5aa00-f42
 위의 문제점을 보완하기 위해 `let` 과 `const` 는 중복 선언이 불가능하게 만들었고 만약 중복 선언이 된다면 에러가 발생하여 즉시 실행을 멈추게 된다. 따라서 변수의 값을 변경해야 할 경우 중복 선언이 아닌 재할당을 통해 값을 변경할 수 있다.
 
 ```jsx
-let letTest = "이거?";
+let letTest = '이거?';
 console.log(letTest); // 이거?
-letTest = "그거 아닐걸";
+letTest = '그거 아닐걸';
 console.log(letTest); // 그거 아닐걸
 let letTest;
 console.log(letTest); // syntaxError
@@ -55,9 +56,9 @@ console.log(letTest); // syntaxError
 하지만 **`const` 는 상수를 표현할 수 있는 키워드로서 중복선언은 물론이고 재할당 또한 불가능**하다.
 
 ```jsx
-const constTest = "하이";
+const constTest = '하이';
 console.log(constTest); // 하이
-constTest = "안녕 못 해";
+constTest = '안녕 못 해';
 console.log(constTest); // TypeError
 ```
 
@@ -73,7 +74,7 @@ console.log(constTest); // TypeError
 
 ```jsx
 function test() {
-  var varTest = "함수 안";
+  var varTest = '함수 안';
   console.log(`이 곳은 ${varTest} 입니다`);
 }
 
@@ -95,7 +96,7 @@ console.log(i); // 5
 
 ```jsx
 function test() {
-  const varTest = "함수 안";
+  const varTest = '함수 안';
   console.log(`이 곳은 ${varTest} 입니다`);
 }
 
@@ -107,7 +108,7 @@ for (let i = 0; i < 5; i++) {
 }
 
 {
-  let language = "JavaScript";
+  let language = 'JavaScript';
 }
 
 console.log(i); // ReferenceError

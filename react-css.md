@@ -1,9 +1,10 @@
 ---
-date: "2024-04-19"
-title: "[React] CSS-in-JS"
-categories: ["React", "WIL"]
-summary: "스타일에 대한 스타일들"
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/de38ff3f-aba9-4210-b4e4-67ddd2855a71"
+date: '2024-04-19'
+title: '[React] CSS-in-JS'
+category: 'Note'
+tags: ['React', 'WIL']
+summary: '스타일에 대한 스타일들'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/de38ff3f-aba9-4210-b4e4-67ddd2855a71'
 ---
 
 ![cssisawe](https://github.com/Haze-S/blog-contents/assets/87344625/de38ff3f-aba9-4210-b4e4-67ddd2855a71)
@@ -15,22 +16,22 @@ CSS-in-JS는 JavaScript 안에서 CSS를 작성하고 관리하는 방법을 말
 아래는 리액트에서 Styled-components를 사용한 예시이다.
 
 ```jsx
-import React from "react";
-import styled from "styled-components";
+import React from 'react';
+import styled from 'styled-components';
 
 // 스타일이 적용된 div 요소를 생성
 const StyledDiv = styled.div`
-  color: ${(props) => props.color || "black"};
-  font-size: ${(props) => props.fontSize || "16px"};
+  color: ${(props) => props.color || 'black'};
+  font-size: ${(props) => props.fontSize || '16px'};
   padding: 20px;
-  background-color: ${(props) => props.bgColor || "white"};
-  border: 2px solid ${(props) => props.borderColor || "transparent"};
+  background-color: ${(props) => props.bgColor || 'white'};
+  border: 2px solid ${(props) => props.borderColor || 'transparent'};
   border-radius: 5px;
 `;
 
 const StyledButton = styled.button`
-  background-color: ${(props) => (props.primary ? "blue" : "white")};
-  color: ${(props) => (props.primary ? "white" : "blue")};
+  background-color: ${(props) => (props.primary ? 'blue' : 'white')};
+  color: ${(props) => (props.primary ? 'white' : 'blue')};
   font-size: 1rem;
   padding: 10px 20px;
   border: 2px solid blue;
@@ -38,7 +39,7 @@ const StyledButton = styled.button`
   cursor: pointer;
 
   &:hover {
-    background-color: ${(props) => (props.primary ? "darkblue" : "lightblue")};
+    background-color: ${(props) => (props.primary ? 'darkblue' : 'lightblue')};
   }
 `;
 

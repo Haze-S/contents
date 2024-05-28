@@ -1,9 +1,10 @@
 ---
-date: "2024-04-01"
-title: "[Web] HTTP"
-categories: ["Web", "WIL"]
-summary: "Hyper Text Transfer Protocol"
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/f2fbae39-71a0-4e89-bf0e-67eba8a04372"
+date: '2024-04-01'
+title: '[Web] HTTP'
+category: 'Note'
+tags: ['Web', 'WIL']
+summary: 'Hyper Text Transfer Protocol'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/f2fbae39-71a0-4e89-bf0e-67eba8a04372'
 ---
 
 ![unauthorized밈](https://github.com/Haze-S/blog-contents/assets/87344625/f2fbae39-71a0-4e89-bf0e-67eba8a04372)

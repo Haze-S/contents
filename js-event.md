@@ -1,9 +1,10 @@
 ---
-date: "2024-03-28"
-title: "[JS] Event"
-categories: ["JavaScript", "WIL"]
-summary: "이벤트는 전파됩니다."
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/547cddb1-c39f-4136-bd04-0e6a661608d2"
+date: '2024-03-28'
+title: '[JS] Event'
+category: 'Note'
+tags: ['JavaScript', 'WIL']
+summary: '이벤트는 전파됩니다.'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/547cddb1-c39f-4136-bd04-0e6a661608d2'
 ---
 
 ![js-event1](https://github.com/Haze-S/blog-contents/assets/87344625/547cddb1-c39f-4136-bd04-0e6a661608d2)

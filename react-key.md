@@ -1,9 +1,10 @@
 ---
-date: "2024-04-11"
-title: "[React] key가 필요한 이유"
-categories: ["React", "WIL"]
-summary: "배열을 렌더링하고 싶은데요.."
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/8f78a4d1-d48b-4e52-acfd-bc670fd8f8fd"
+date: '2024-04-11'
+title: '[React] key가 필요한 이유'
+category: 'Note'
+tags: ['React', 'WIL']
+summary: '배열을 렌더링하고 싶은데요..'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/8f78a4d1-d48b-4e52-acfd-bc670fd8f8fd'
 ---
 
 <p align=center>
@@ -41,13 +42,13 @@ key 값은 가장 바깥쪽에 있는 (최상위) 태그에다가 prop을 지정
 key를 사용하지 않으면 리액트가 요소의 고유성을 보장할 수 없다. 따라서 요소의 추가, 제거, 이동이 예상치 못한 결과를 초래할 수 있다. 예를 들어, 요소의 순서가 변경되면 리액트가 올바르게 업데이트하지 못할 수 있다.
 
 ```jsx
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
 function App() {
   const [items, setItems] = useState([
-    { id: 1, text: "Apple" },
-    { id: 2, text: "Banana" },
-    { id: 3, text: "Orange" },
+    { id: 1, text: 'Apple' },
+    { id: 2, text: 'Banana' },
+    { id: 3, text: 'Orange' },
   ]);
 
   const removeItem = (idToRemove) => {

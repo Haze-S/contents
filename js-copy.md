@@ -1,9 +1,10 @@
 ---
-date: "2024-03-25"
-title: "[JS] 얕은 복사 & 깊은 복사"
-categories: ["JavaScript", "WIL"]
-summary: "메모리도 아껴야 잘 산다!"
-thumbnail: "https://github.com/Haze-S/blog-contents/assets/87344625/41fc3205-43cb-489c-8d86-1e3ddc901f67"
+date: '2024-03-25'
+title: '[JS] 얕은 복사 & 깊은 복사'
+category: 'Note'
+tags: ['JavaScript', 'WIL']
+summary: '메모리도 아껴야 잘 산다!'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/41fc3205-43cb-489c-8d86-1e3ddc901f67'
 ---
 
 ![js-copy1](https://github.com/Haze-S/blog-contents/assets/87344625/41fc3205-43cb-489c-8d86-1e3ddc901f67)
@@ -71,9 +72,9 @@ console.log(user2); // {name:"kim", age:99}
 깊은 복사는 원본 변수에 있는 값을 복사하여 다른 메모리 공간에 적재한 뒤 해당 주소를 복사한 변수가 가리키는 것이다. 깊은 복사의 경우 서로 다른 데이터 주소를 가리키고 있기 때문에 어느 한 쪽의 값이 변경되어도 다른 한 쪽의 데이터에 영향을 주지 않는다.
 
 ```jsx
-const a = "a";
-let b = "b";
-b = "c";
+const a = 'a';
+let b = 'b';
+b = 'c';
 
 console.log(a); // 'a'
 console.log(b); // 'c'
