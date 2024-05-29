@@ -1,7 +1,7 @@
 ---
 date: '2024-04-22'
 title: '[JS] truthy & falsy'
-category: 'Note'
+categories: ['Note']
 tags: ['JavaScript', 'WIL']
 summary: '알고 쓰면 유용한 아이들'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/9710b7e5-013d-4432-88b8-4410b0e00e41'

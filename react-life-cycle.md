@@ -1,7 +1,7 @@
 ---
 date: '2024-04-15'
 title: '[React] Life cycle'
-category: 'Note'
+categories: ['Note']
 tags: ['React', 'WIL']
 summary: '컴포넌트의 삶'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/1d7d7540-ecc8-447c-a52d-cfb465f77630'

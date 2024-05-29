@@ -1,7 +1,7 @@
 ---
 date: '2024-05-16'
 title: '[Project] Rolling 최종 회고'
-category: 'Review'
+categories: ['Review']
 tags: ['Review', 'Project', 'Rolling']
 summary: '2주동안 진행된 Only FE 팀플'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/f5c72814-b435-4565-83b1-ed87b535aaae'

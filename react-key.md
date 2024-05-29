@@ -1,7 +1,7 @@
 ---
 date: '2024-04-11'
 title: '[React] key가 필요한 이유'
-category: 'Note'
+categories: ['Note']
 tags: ['React', 'WIL']
 summary: '배열을 렌더링하고 싶은데요..'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/8f78a4d1-d48b-4e52-acfd-bc670fd8f8fd'

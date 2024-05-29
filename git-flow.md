@@ -1,7 +1,7 @@
 ---
 date: '2024-03-21'
 title: '[Git] branch 전략'
-category: 'Note'
+categories: ['Note']
 tags: ['Git', 'WIL']
 summary: 'Git-flow vs Github-flow'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/807ab80a-96c4-481a-866e-8cbc81ce0e6b'
