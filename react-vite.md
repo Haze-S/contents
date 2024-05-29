@@ -4,7 +4,7 @@ title: '[Project] Vite 사용한 이유'
 categories: ['Review']
 tags: ['React', 'Project', 'Rolling']
 summary: '프랑스어로 "빠르다(Quick)"를 의미하며, 발음은 "veet"와 비슷한 /vit/ 입니다.'
-thumbnail: 'https://github.com/Haze-S/Haze-S.github.io/assets/87344625/af919317-2d68-4b60-bb22-eb29641d22ed'
+thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/2144463c-7032-43aa-8b6b-28d62b6d2954'
 ---
 
 # CRA vs Vite
