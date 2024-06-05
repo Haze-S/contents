@@ -1,7 +1,7 @@
 ---
 date: '2024-05-11'
 title: '[Project] Styled Component 적응기'
-categories: ['Review']
+categories: ['Note']
 tags: ['React', 'Project', 'Rolling']
 summary: '장단점이 너무나도 명확한 그에 대하여..'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/9cf35baa-f478-4d8a-9770-9f4348949f46'
