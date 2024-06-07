@@ -1,7 +1,7 @@
 ---
 date: '2024-05-06'
 title: '[Project] fetch를 사용한 이유'
-categories: ['Review']
+categories: ['Note']
 tags: ['JavaScript', 'Project', 'Rolling']
 summary: '서버... 너에게 닿기를...!'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/403a3b63-a3af-41c5-9ce9-895b67c803d2'
