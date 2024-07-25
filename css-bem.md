@@ -1,9 +1,8 @@
 ---
 date: '2024-03-25'
-title: '[CSS] BEM'
+title: 'BEM'
 categories: ['Note']
 tags: ['CSS', 'Refactoring', 'Memoir']
-summary: '판다마켓'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/dfa6e8b3-1853-4058-af26-f35fe6c6da32'
 ---
 

@@ -1,9 +1,8 @@
 ---
 date: '2024-05-01'
-title: '[Project] Vite 사용한 이유'
+title: 'Vite 사용한 이유'
 categories: ['Note']
 tags: ['React', 'Project', 'Rolling']
-summary: '프랑스어로 "빠르다(Quick)"를 의미하며, 발음은 "veet"와 비슷한 /vit/ 입니다.'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/2144463c-7032-43aa-8b6b-28d62b6d2954'
 ---
 

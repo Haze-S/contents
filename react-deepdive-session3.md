@@ -1,9 +1,8 @@
 ---
 date: '2024-06-18'
-title: '[React] Deep-Dive Book study session 3'
+title: 'Deep-Dive Book study session 3'
 categories: ['Study']
 tags: ['Book', 'React']
-summary: 'React Deep-Dive 북 스터디의 세번째, 챕터 11.1 ~ 11.4의 요약 및 설명을 맡았다.'
 thumbnail: 'https://github.com/Haze-S/contents/assets/87344625/dc1b07e1-ee6b-495e-bfd9-82f03c993d69'
 ---
 

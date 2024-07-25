@@ -3,7 +3,6 @@ date: '2024-05-25'
 title: 'GraphQL'
 categories: ['Note']
 tags: ['Blog', 'Query']
-summary: 'GraphQL은 클라이언트가 데이터를 서버로부터 가져오는 것을 목적으로 한다.'
 thumbnail: 'https://github.com/Haze-S/contents/assets/87344625/1ef64a06-b669-441a-892f-dc87a7002b3b'
 ---
 

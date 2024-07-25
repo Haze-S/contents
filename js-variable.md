@@ -1,9 +1,8 @@
 ---
 date: '2024-03-28'
-title: '[JS] var & let & const'
+title: 'var & let & const'
 categories: ['Note']
 tags: ['JavaScript', 'WIL']
-summary: '이런 var보같은 녀석!'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/eed5aa00-f42b-43c8-a62b-0952fb1d4b39'
 ---
 

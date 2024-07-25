@@ -1,9 +1,8 @@
 ---
 date: '2024-03-21'
-title: '[Git] branch merge'
+title: 'branch merge'
 categories: ['Note']
 tags: ['Git', 'WIL']
-summary: 'merge에도 다양한 개념과 방법들이 있는 걸 알게 되어서 정리해본다.'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/d90539cc-4818-4d10-8f4f-2af6aff16d09'
 ---
 

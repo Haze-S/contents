@@ -1,9 +1,8 @@
 ---
 date: '2024-04-19'
-title: '[React] CSS-in-JS'
+title: 'CSS-in-JS'
 categories: ['Note']
 tags: ['React', 'WIL']
-summary: '스타일에 대한 스타일들'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/de38ff3f-aba9-4210-b4e4-67ddd2855a71'
 ---
 

@@ -1,9 +1,8 @@
 ---
 date: '2024-03-19'
-title: '[HTML] 시맨틱 태그(Semantic tag)'
+title: '시맨틱 태그(Semantic tag)'
 categories: ['Note']
 tags: ['Web', 'HTML', 'WIL']
-summary: '시맨틱 태그란 이름과 같이 의미있는, 뜻을 가지고 있는 태그를 뜻한다.'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/e9c05255-e28c-453e-9933-03cc98c1e541'
 ---
 

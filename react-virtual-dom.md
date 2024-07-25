@@ -1,9 +1,8 @@
 ---
 date: '2024-04-07'
-title: '[React] Virtual DOM'
+title: 'Virtual DOM'
 categories: ['Note']
 tags: ['React', 'WIL']
-summary: '가상돔은 말 그대로 가상입니다.'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/c4b6f98d-0a52-43e6-a82b-56b26889d453'
 ---
 

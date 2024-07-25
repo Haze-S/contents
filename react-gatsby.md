@@ -1,9 +1,8 @@
 ---
 date: '2024-05-22'
-title: '[Gatsby] 개츠비! 블로그!'
+title: '개츠비! 블로그!'
 categories: ['Note']
 tags: ['Blog', 'SSG', 'React']
-summary: '드디어 나의 로망이 실행되었다!'
 thumbnail: 'https://github.com/Haze-S/contents/assets/87344625/a523f319-dc29-4480-99ea-e0be2651fff9'
 ---
 

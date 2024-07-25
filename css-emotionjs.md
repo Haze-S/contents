@@ -1,9 +1,8 @@
 ---
 date: '2024-06-02'
-title: '[CSS] Emotion JS'
+title: 'Emotion JS'
 categories: ['Note']
 tags: ['Blog', 'CSS']
-summary: 'Emotion.js는 JavaScript 기반의 CSS-in-JS 라이브러리로, 스타일링을 위한 도구이다. Framework Agnostic과 React 애플리케이션에서 사용되며, CSS와 JavaScript를 결합하여 컴포넌트 기반의 스타일링을 가능하게 한다. Emotion.js는 다양한 스타일링 방법과 유연성을 제공하여 개발자들이 더 나은 사용자 경험을 만들 수 있도록 돕는다.'
 thumbnail: 'https://github.com/Haze-S/contents/assets/87344625/ec64e43d-9889-479b-a5de-cc3c8d02d9e9'
 ---
 

@@ -1,9 +1,8 @@
 ---
 date: '2024-03-25'
-title: '[JS] 얕은 복사 & 깊은 복사'
+title: '얕은 복사 & 깊은 복사'
 categories: ['Note']
 tags: ['JavaScript', 'WIL']
-summary: '메모리도 아껴야 잘 산다!'
 thumbnail: 'https://github.com/Haze-S/blog-contents/assets/87344625/41fc3205-43cb-489c-8d86-1e3ddc901f67'
 ---
 
